@@ -63,7 +63,7 @@ All writing, concepts, and non-code knowledge work are licensed under
 Want to collaborate, contribute, or just say hello?
 
 📧 **hello@sophellium.org**  
-🌐 [Landing Page](https://sophellium.net)
+🌐 [Landing Page](https://sophellium.org)
 
 ---
 © 2025 Sophellium. All rights reserved.
