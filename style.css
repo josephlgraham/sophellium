@@ -14,7 +14,7 @@ body {
   transform: translate(-50%, -50%) rotate(0deg);
   width: 80vmin;
   height: 80vmin;
-  background: url('https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Alchemical_symbol_for_spirit.svg/1200px-Alchemical_symbol_for_spirit.svg.png') no-repeat center center;
+  background: url('spirit_symbol.svg') no-repeat center center;
   background-size: contain;
   opacity: 0.03;
   animation: slowspin 120s linear infinite;
