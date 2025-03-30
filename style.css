@@ -10,8 +10,12 @@ html, body {
   overflow-x: hidden;
 }
 
+body {
+  position: relative;
+}
+
 .background-symbol {
-  position: fixed;
+  position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%) rotate(0deg);
